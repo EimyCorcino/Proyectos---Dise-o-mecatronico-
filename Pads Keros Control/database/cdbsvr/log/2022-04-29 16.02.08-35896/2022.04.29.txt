@@ -1,0 +1,391 @@
+[2022.04.29 16:02:08] [0000m.00s.016ms] [0] WELCOME
+[2022.04.29 16:02:08] [0000m.00s.017ms] [1] iCDB Server ver.2.210, lAMCCPgGndLueXBdAPvB3g, build:19222122 created 2021-08-24 19:25:25, sources stamp:lAMCCPgGndLueXBdAPvB3g
+[2022.04.29 16:02:08] [0000m.00s.017ms] [1] Unpublished work. Copyright 2021 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2022.04.29 16:02:08] [0000m.00s.026ms] [1] Base flow version [VX.2.10]
+[2022.04.29 16:02:08] [0000m.00s.026ms] [1] Install Id [2373040], Flow Id [PADS VX.2.10], Full Flow Name [PADS VX.2.10], Exact Access Date [2021/08/01]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] Machine [LAPTOP-DHJ5LKCP]  IP [127.0.0.1,192.168.56.1,192.168.78.51,25.10.65.187]  User [josme]  PID [35896]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 22000)]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] Current working dir [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] PATH [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\josme\AppData\Local\Microsoft\WindowsApps;C:\Users\josme\AppData\Local\atom\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\CAMCAD;C:\Users\josme\AppData\Local\GitHubDesktop\bin]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.10\SDD_HOME] on file system [NTFS]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] SDD_PLATFORM [win32]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] WDIR [C:\Pads;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\standard;]
+[2022.04.29 16:02:08] [0000m.00s.033ms] [1] Local iCDB working dir [C:\Pads\iCDB] on file system [NTFS]
+[2022.04.29 16:02:08] [0000m.00s.034ms] [2] S: Loading config files
+[2022.04.29 16:02:08] [0000m.00s.036ms] [1] Config file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\cdbsvr\Server.cfg] not found
+[2022.04.29 16:02:08] [0000m.00s.037ms] [3] S: Config loaded
+[2022.04.29 16:02:08] [0000m.00s.040ms] [0] S: Project path [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database] on file system [NTFS]
+[2022.04.29 16:02:08] [0000m.00s.040ms] [0] S: Project file (.prj) path [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\KérosControlJP.prj] on file system [NTFS]
+[2022.04.29 16:02:08] [0000m.00s.040ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2022.04.29 16:02:08] [0000m.00s.040ms] [0] S: Single-user mode (auto)
+[2022.04.29 16:02:08] [0000m.00s.040ms] [0] S: Event polling mode autodetection
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] S: Started up automatically by iCDB Client: LAPTOP-DHJ5LKCP:josme:25100
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] S: Auto close mode
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] S: Database ID [eec2-751f-9e64-7a84-8e8b-b62e-e8bb-6260-1638-2b6c-a565-a470]
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] PathTranslator: BEGIN dumping
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] PathTranslator: Local -> global path prefix list
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] PathTranslator: Global -> local path prefix list
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] PathTranslator: END dumping
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] S: START
+[2022.04.29 16:02:08] [0000m.00s.041ms] [0] S: Server startup lock file created
+[2022.04.29 16:02:08] [0000m.00s.042ms] [0] S: Listening for client connections on port [10001]
+[2022.04.29 16:02:08] [0000m.00s.043ms] [0] S: Server network ID [LAPTOP-DHJ5LKCP:192.168.56.1,192.168.78.51,25.10.65.187,LAPTOP-DHJ5LKCP:10001]
+[2022.04.29 16:02:08] [0000m.00s.043ms] [0] S: Server GUID [ce56-d4cd-5b66-43df-0444-c626-444c-6260-8e49-4e9f-e8c5-4540]
+[2022.04.29 16:02:08] [0000m.00s.043ms] [0] S: Project GUID [eec2-751f-9e64-7a84-8e8b-b62e-e8bb-6260-1638-2b6c-a565-a470]
+[2022.04.29 16:02:08] [0000m.00s.044ms] [0] S: Wrote data to server address file
+[2022.04.29 16:02:08] [0000m.00s.044ms] [0] S: Server startup lock file removed
+[2022.04.29 16:02:08] [0000m.00s.044ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\KérosControlJP.prj]
+[2022.04.29 16:02:08] [0000m.00s.113ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2022.04.29 16:02:08] [0000m.00s.113ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\iCDB\win32\bin]
+[2022.04.29 16:02:08] [0000m.00s.113ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin]
+[2022.04.29 16:02:08] [0000m.00s.114ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2022.04.29 16:02:08] [0000m.00s.114ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2022.04.29 16:02:08] [0000m.00s.114ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2022.04.29 16:02:08] [0000m.00s.114ms] [0] S: Local disc access time: 29 us
+[2022.04.29 16:02:08] [0000m.00s.114ms] [0] S: File server access time: 32 us
+[2022.04.29 16:02:08] [0000m.00s.115ms] [0] Single file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\icdb.dat] size [264624 (258.4 kB)]
+[2022.04.29 16:02:08] [0000m.00s.115ms] [1] Single file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\icdb.dat] opened in read-write mode
+[2022.04.29 16:02:08] [0000m.00s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.115ms] [0] Database GUARD OK: [264624]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] Database GUARD OK: [264624]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] Database GUARD OK: [264624]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.116ms] [0] Database GUARD OK: [264624]
+[2022.04.29 16:02:08] [0000m.00s.117ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.117ms] [0] Database GUARD OK: [264624]
+[2022.04.29 16:02:08] [0000m.00s.117ms] [0] SingleFile: [5632-05ab-f4af-0cdb] SFI version check [1009] [1009]
+[2022.04.29 16:02:08] [0000m.00s.121ms] [0] SingleFile: [5632-05ab-f4af-0cdb] Database SFI header has been read in [4ms 368us]
+[2022.04.29 16:02:08] [0000m.00s.126ms] [0] iCDB Server PI: Server & plugin session [175]
+[2022.04.29 16:02:08] [0000m.00s.126ms] [0] iCDB Server PI: Opening database [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database]
+[2022.04.29 16:02:08] [0000m.00s.126ms] [0] iCDB Server PI: Database [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database] opened
+[2022.04.29 16:02:08] [0000m.00s.145ms] [0] iCDB Database: Checking existence of constraint definitions
+[2022.04.29 16:02:08] [0000m.00s.145ms] [0] iCDB Database: Checking constraint definitions version
+[2022.04.29 16:02:08] [0000m.00s.169ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.76] up to date
+[2022.04.29 16:02:08] [0000m.00s.173ms] [0] iCDB Server PI: Initializing plugins
+[2022.04.29 16:02:08] [0000m.00s.174ms] [0] iCDB Server PI: Plugins initialized
+[2022.04.29 16:02:08] [0000m.00s.174ms] [0] S: iCDB database loaded
+[2022.04.29 16:02:08] [0000m.00s.175ms] [0] S: Starting threads
+[2022.04.29 16:02:08] [0000m.00s.175ms] [0] BT: Listening for broadcast messages on port [10000]
+[2022.04.29 16:02:08] [0000m.00s.175ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2022.04.29 16:02:08] [0000m.00s.176ms] [0] IT: Session [176] for host [LAPTOP-DHJ5LKCP] user [josme] client type[0] clsvrPluginID[0] with process ID [25100] created
+[2022.04.29 16:02:08] [0000m.00s.179ms] [0] MWT: WindowProc: WM_NCCREATE
+[2022.04.29 16:02:08] [0000m.00s.179ms] [1] SC[176]: Registered sub-client [DxD] with ID [1] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.188ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2022.04.29 16:02:08] [0000m.00s.188ms] [0] IT: iCDB Server Monitor session [1] for host [LAPTOP-DHJ5LKCP] user [josme] with process ID [18556] created
+[2022.04.29 16:02:08] [0000m.00s.234ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\ProjectBackup\backups\2022-04-29 16.02.08 - auto.zip] with GUID [46f8-153a-dc29-2250-0444-c626-444c-6260-40e8-4e9f-e8c5-4540]
+[2022.04.29 16:02:08] [0000m.00s.234ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[46f8-153a-dc29-2250-0444-c626-444c-6260-40e8-4e9f-e8c5-4540] CreationTime[Friday, April 29, 2022 20:02:08] Type[Autosave] Creator[iCDB Server (2022-04-29 16.02.08-35896)] ApplicationName[iCDB Server (2022-04-29 16.02.08-35896)] UserName[josme] MachineName[LAPTOP-DHJ5LKCP] Description[Autosave] FullFlowName[PADS VX.2.10] FlowId[PADSVX.2.10] GBSInstallId[2373040] GBSBuildId[19222122] IcdbVersion[4000] ReferenceLogFilePath[] BackupFilePath[C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\ProjectBackup\backups\2022-04-29 16.02.08 - auto.zip] BackupFileSize[301893] Persistent[FALSE]
+[2022.04.29 16:02:08] [0000m.00s.276ms] [1] CMT: There are [1] clients now: 176
+[2022.04.29 16:02:08] [0000m.00s.329ms] [1] SC[176]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.346ms] [1] SC[176]: Registered sub-client [SymbolEditor] with ID [3] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.351ms] [1] SC[176]: Registered sub-client [SelectionHolder] with ID [4] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.378ms] [1] SC[176]: Registered sub-client [Core::DesignListener-460689680-0] with ID [5] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.380ms] [1] SC[176]: Registered sub-client [BlockCacheDxD:460688240] with ID [6] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.382ms] [1] SC[176]: Registered sub-client [Core::NetFlatData-32431] with ID [7] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.388ms] [1] SC[176]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.391ms] [1] SC[176]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:08] [0000m.00s.394ms] [1] SC[176]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:10] [0000m.02s.754ms] [1] SC[176]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.575ms] [1] SC[176]: Registered sub-client [HdlProject] with ID [11] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.579ms] [1] SC[176]: Registered sub-client [IBDInstanceDialog] with ID [12] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.583ms] [1] SC[176]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:447363168] with ID [13] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.635ms] [1] SC[176]: Registered sub-client [SheetConnectorsCacheDxD:1651262531] with ID [14] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.689ms] [1] SC[176]: Registered sub-client [NetsNamesCollectorDxD:1651262531] with ID [15] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.725ms] [1] SC[176]: Registered sub-client [PartReplaceUtils] with ID [16] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.728ms] [1] SC[176]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [17] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.740ms] [1] SC[176]: Registered sub-client [xprob] with ID [18] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.823ms] [1] SC[176]: Registered sub-client [StartServerClient26b0] with ID [19] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:11] [0000m.03s.823ms] [1] SC[176]: UnRegistered sub-client [StartServerClient26b0] with ID [19] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:14] [0000m.06s.523ms] [1] SC[176]: Registered sub-client [Navigator] with ID [20] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:14] [0000m.06s.536ms] [1] SC[176]: Registered sub-client [OutputWindow] with ID [21] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:14] [0000m.06s.539ms] [1] SC[176]: Registered sub-client [PlaceDevice] with ID [22] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:14] [0000m.06s.802ms] [1] SC[176]: Registered sub-client [FFSearch_RBHost] with ID [23] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:14] [0000m.06s.805ms] [1] SC[176]: Registered sub-client [LocalSymbolsDataProvider] with ID [24] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.720ms] [1] SC[176]: Registered sub-client [FFSSelListener] with ID [25] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.723ms] [1] SC[176]: Registered sub-client [SAE] with ID [26] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.736ms] [1] SC[176]: Registered sub-client [DxConstraints] with ID [27] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.738ms] [1] SC[176]: Registered sub-client [CCZAddin] with ID [28] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.741ms] [1] SC[176]: Registered sub-client [DxThumbnails] with ID [29] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.744ms] [1] SC[176]: Registered sub-client [MyParts] with ID [30] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.758ms] [1] SC[176]: Registered sub-client [PinsList] with ID [31] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.823ms] [1] SC[176]: Registered sub-client [toolboxes] with ID [32] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.904ms] [1] SC[176]: Registered sub-client [ObjectHolder_731312944] with ID [33] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.906ms] [1] SC[176]: Registered sub-client [BlockCacheDxD:677185888] with ID [34] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.909ms] [1] SC[176]: Registered sub-client [GlobalNetAliasUpdater_731315024] with ID [35] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:15] [0000m.07s.912ms] [1] SC[176]: Registered sub-client [IcdbNetProcessorSubClientDxD:676944680] with ID [36] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:16] [0000m.08s.255ms] [1] SC[176]: Registered sub-client [SupplyChainDataProviderInterface] with ID [37] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:16] [0000m.08s.256ms] [1] SC[176]: UnRegistered sub-client [SupplyChainDataProviderInterface] with ID [37] for session ID [176] host [LAPTOP-DHJ5LKCP] user [josme] process ID [25100]
+[2022.04.29 16:02:29] [0000m.20s.986ms] [0] DFAMT: File server access time: 38 us
+[2022.04.29 16:08:13] [0006m.05s.452ms] [0] MWT: PBT_APMSTANDBY || PBT_APMSUSPEND
+[2022.04.29 16:08:13] [0006m.05s.452ms] [0] MWT: Requesting emergency server stop: System goes to SLEEP
+[2022.04.29 16:08:13] [0006m.05s.452ms] [0] Removing server address file.
+[2022.04.29 16:08:13] [0006m.05s.498ms] [5] SC[176]: Received command: Server # ClientCommandID[5470] # SubClientID[1] @ PIMCommand # CDBCommand.Size[36]
+[2022.04.29 16:08:13] [0006m.05s.498ms] [5] ET: Executing client [176] command: Server # ClientCommandID[5470] # SubClientID[1] @ PIMCommand # CDBCommand.Size[36]
+[2022.04.29 16:08:13] [0006m.05s.498ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetPIManager} PIInfo { FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[KerosControl_layout_temp]} bool {FALSE}}
+[2022.04.29 16:08:13] [0006m.05s.499ms] [5] iCDB PIM Wrapper: Executing AddPISession: PIInfo[ FESnapshotName[DxD] FETopLevelUID[2-1-5 (Block)] BESnapshotName[KerosControl_layout_temp]]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { Index {0-4-127 (ProjectIntegration)}}
+[2022.04.29 16:08:13] [0006m.05s.499ms] [5] ET: From client [176] command executed
+[2022.04.29 16:08:13] [0006m.05s.499ms] [5] ET: To client [176] command reply: Client # ServerCommandID[5538] # ClientCommandID[5470] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [7] SC[176]: Adding reply command to send: Client # ServerCommandID[5538] # ClientCommandID[5470] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [7] SC[176]: Added reply command [0331D760] to send
+[2022.04.29 16:08:13] [0006m.05s.499ms] [7] CST[176]: Trying to send command [0331D760] of size [41]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [5] SC[176]: Received command: Server # ClientCommandID[5471] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [7] CST[176]: Sent command [0331D760]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [5] ET: Executing client [176] command: Server # ClientCommandID[5471] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2022.04.29 16:08:13] [0006m.05s.499ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetIndicator} Index {0-4-127 (ProjectIntegration)} EIndicatorType {BAPending}}
+[2022.04.29 16:08:13] [0006m.05s.500ms] [5] iCDB PIM Wrapper: Executing GetIndicator: PIIndex[0-4-127 (ProjectIntegration)] IndicatorType[BAPending]
+[2022.04.29 16:08:13] [0006m.05s.500ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { bool {FALSE}}
+[2022.04.29 16:08:13] [0006m.05s.500ms] [5] ET: From client [176] command executed
+[2022.04.29 16:08:13] [0006m.05s.500ms] [5] ET: To client [176] command reply: Client # ServerCommandID[5539] # ClientCommandID[5471] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[1]
+[2022.04.29 16:08:13] [0006m.05s.500ms] [7] SC[176]: Adding reply command to send: Client # ServerCommandID[5539] # ClientCommandID[5471] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[1]
+[2022.04.29 16:08:13] [0006m.05s.500ms] [7] SC[176]: Added reply command [0331D778] to send
+[2022.04.29 16:08:13] [0006m.05s.500ms] [7] CST[176]: Trying to send command [0331D778] of size [37]
+[2022.04.29 16:08:13] [0006m.05s.500ms] [7] CST[176]: Sent command [0331D778]
+[2022.04.29 16:08:13] [0006m.05s.522ms] [0] S: Closing server
+[2022.04.29 16:08:13] [0006m.05s.522ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[ce56-d4cd-5b66-43df-0444-c626-444c-6260-8e49-4e9f-e8c5-4540] Command number[5540]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10001] # Status [Closing]]
+[2022.04.29 16:08:13] [0006m.05s.522ms] [3] IT: FREE
+[2022.04.29 16:08:13] [0006m.05s.522ms] [4] IT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.523ms] [4] IT: Empty client connection popped from the waiting queue
+[2022.04.29 16:08:13] [0006m.05s.523ms] [2] IT: STOP
+[2022.04.29 16:08:13] [0006m.05s.523ms] [3] ET: Suspend request
+[2022.04.29 16:08:13] [0006m.05s.523ms] [2] ET: SUSPENDED
+[2022.04.29 16:08:13] [0006m.05s.523ms] [3] ET: Suspend request finished
+[2022.04.29 16:08:13] [0006m.05s.523ms] [2] SCL: Removing all clients
+[2022.04.29 16:08:13] [0006m.05s.523ms] [3] SC[176]: FREE
+[2022.04.29 16:08:13] [0006m.05s.523ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[ce56-d4cd-5b66-43df-0444-c626-444c-6260-8e49-4e9f-e8c5-4540] Command number[5541]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10001] # Client [Address[LAPTOP-DHJ5LKCP] User[josme] PID[25100] Session[176] Status[Active] Dead elapsed time sec[0] Version[2.210] Sub-clients[ ( Sub-client[Name[DxD] Id[1]], Sub-client[Name[TransactionRollbackSubClient] Id[2]], Sub-client[Name[SymbolEditor] Id[3]], Sub-client[Name[SelectionHolder] Id[4]], Sub-client[Name[Core::DesignListener-460689680-0] Id[5]], Sub-client[Name[BlockCacheDxD:460688240] Id[6]], Sub-client[Name[Core::NetFlatData-32431] Id[7]], Sub-client[Name[SystemDesignDll] Id[9]], Sub-client[Name[DesignSearcher2] Id[10]], Sub-client[Name[HdlProject] Id[11]], Sub-client[Name[IBDInstanceDialog] Id[12]], Sub-client[Name[ProjectIntegrationIcdbCacheDxD:447363168] Id[13]], Sub-client[Name[SheetConnectorsCacheDxD:1651262531] Id[14]], Sub-client[Name[NetsNamesCollectorDxD:1651262531] Id[15]], Sub-client[Name[PartReplaceUtils] Id[16]], Sub-client[Name[PartReplaceUtilsSelectionListener] Id[17]], Sub-client[Name[xprob] Id[18]], Sub-client[Name[Navigator] Id[20]], Sub-client[Name[OutputWindow] Id[21]], Sub-client[Name[PlaceDevice] Id[22]], Sub-client[Name[FFSearch_RBHost] Id[23]], Sub-client[Name[LocalSymbolsDataProvider] Id[24]], Sub-client[Name[FFSSelListener] Id[25]], Sub-client[Name[SAE] Id[26]], Sub-client[Name[DxConstraints] Id[27]], Sub-client[Name[CCZAddin] Id[28]], Sub-client[Name[DxThumbnails] Id[29]], Sub-client[Name[MyParts] Id[30]], Sub-client[Name[PinsList] Id[31]], Sub-client[Name[toolboxes] Id[32]], Sub-client[Name[ObjectHolder_731312944] Id[33]], Sub-client[Name[BlockCacheDxD:677185888] Id[34]], Sub-client[Name[GlobalNetAliasUpdater_731315024] Id[35]], Sub-client[Name[IcdbNetProcessorSubClientDxD:676944680] Id[36]])]]]
+[2022.04.29 16:08:13] [0006m.05s.523ms] [3] CRT[176]: FREE
+[2022.04.29 16:08:13] [0006m.05s.523ms] [4] CRT[176]: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.599ms] [2] CRT[176]: STOP
+[2022.04.29 16:08:13] [0006m.05s.599ms] [3] CST[176]: FREE
+[2022.04.29 16:08:13] [0006m.05s.599ms] [4] CST[176]: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.599ms] [2] CST[176]: STOP
+[2022.04.29 16:08:13] [0006m.05s.599ms] [1] SC[176]: WARNING: Session is still active while destroying
+[2022.04.29 16:08:13] [0006m.05s.599ms] [2] SC[176]: Disconnecting from peer
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2022.04.29 16:08:13] [0006m.05s.599ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000020000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000020000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2100000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2100000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.599ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4100000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4100000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\6100000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\6100000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000020000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000020000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000030000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000030000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\ea00000010000050.blk\rbcatl.v]
+[2022.04.29 16:08:13] [0006m.05s.600ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\ea00000010000050.blk\rbcatl.v] doesn't exist
+[2022.04.29 16:08:13] [0006m.05s.607ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\uids]
+[2022.04.29 16:08:13] [0006m.05s.607ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\uids] exists
+[2022.04.29 16:08:13] [0006m.05s.607ms] [4] iCDB SnapshotMap: Snapshot [1] removed
+[2022.04.29 16:08:13] [0006m.05s.607ms] [6] iCDB Storage Server: Unloading directory [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000020000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2000000020000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2100000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\2100000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4100000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4100000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000020000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000020000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000030000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\4300000030000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\6100000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\6100000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\ea00000010000050.blk\blkatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbblks\ea00000010000050.blk\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.608ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcatlg\catlgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcatlg\grpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcatlg\grpobj]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcmpcache\cmpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcmpcache\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcmps\cmpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcmps\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000020000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000020000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2000000020000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2100000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2100000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\2100000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4100000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4100000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4100000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000020000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000020000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000020000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000030000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000030000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\4300000030000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\6100000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.609ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\6100000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\6100000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\ea00000010000050.blk\cesatl.v]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\ea00000010000050.blk\cnfgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\cdbcnfgs\ea00000010000050.blk\varatl.v]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\oryg]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s1\uids]
+[2022.04.29 16:08:13] [0006m.05s.610ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2022.04.29 16:08:13] [0006m.05s.610ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2022.04.29 16:08:13] [0006m.05s.610ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2022.04.29 16:08:13] [0006m.05s.611ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\uids]
+[2022.04.29 16:08:13] [0006m.05s.611ms] [6] iCDB Storage Server: File [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\uids] exists
+[2022.04.29 16:08:13] [0006m.05s.612ms] [4] iCDB SnapshotMap: Snapshot [2] removed
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading directory [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcatlg\catlgatl.v]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcatlg\grpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcatlg\grpobj]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcmpcache\cmpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcmps\cmpatl.v]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\cdbcmps\dxdatl.v]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\oryg]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\params]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [6] iCDB Storage Server: Unloading file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\s2\uids]
+[2022.04.29 16:08:13] [0006m.05s.612ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2022.04.29 16:08:13] [0006m.05s.613ms] [3] ET: Discarding pending commands
+[2022.04.29 16:08:13] [0006m.05s.613ms] [3] ET: Resume request
+[2022.04.29 16:08:13] [0006m.05s.613ms] [3] ET: Resume request finished
+[2022.04.29 16:08:13] [0006m.05s.613ms] [2] ET: RESUMED
+[2022.04.29 16:08:13] [0006m.05s.617ms] [2] PrjBackupEngine: STOP
+[2022.04.29 16:08:13] [0006m.05s.618ms] [3] PrjBackupEngine: FREE
+[2022.04.29 16:08:13] [0006m.05s.618ms] [4] PrjBackupEngine: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.618ms] [3] ET: FREE
+[2022.04.29 16:08:13] [0006m.05s.618ms] [4] ET: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.618ms] [2] ET: STOP
+[2022.04.29 16:08:13] [0006m.05s.618ms] [2] SCL: Stopping all send threads
+[2022.04.29 16:08:13] [0006m.05s.618ms] [3] CMT: FREE
+[2022.04.29 16:08:13] [0006m.05s.618ms] [4] CMT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.642ms] [2] CMT: STOP
+[2022.04.29 16:08:13] [0006m.05s.643ms] [3] DMT: FREE
+[2022.04.29 16:08:13] [0006m.05s.643ms] [4] DMT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.643ms] [2] DMT: STOP
+[2022.04.29 16:08:13] [0006m.05s.643ms] [3] DFAMT: FREE
+[2022.04.29 16:08:13] [0006m.05s.643ms] [4] DFAMT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.647ms] [2] DFAMT: Filer project path [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database] access monitoring ended
+[2022.04.29 16:08:13] [0006m.05s.647ms] [2] DFAMT: STOP
+[2022.04.29 16:08:13] [0006m.05s.647ms] [4] DFAMT: FINISHED
+[2022.04.29 16:08:13] [0006m.05s.647ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2022.04.29 16:08:13] [0006m.05s.647ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.665ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2022.04.29 16:08:13] [0006m.05s.665ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2022.04.29 16:08:13] [0006m.05s.665ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2022.04.29 16:08:13] [0006m.05s.665ms] [4] DMT: FINISHED
+[2022.04.29 16:08:13] [0006m.05s.665ms] [2] SCL: Removing all clients
+[2022.04.29 16:08:13] [0006m.05s.666ms] [2] iCDB Server PI: Unloading observers
+[2022.04.29 16:08:13] [0006m.05s.666ms] [2] iCDB Server PI: Observers unloaded
+[2022.04.29 16:08:13] [0006m.05s.666ms] [0] iCDB Server PI: Closing plugins
+[2022.04.29 16:08:13] [0006m.05s.666ms] [2] iCDB Server PI: Closing PIM plugin
+[2022.04.29 16:08:13] [0006m.05s.666ms] [5] iCDB PIM Wrapper: FREE
+[2022.04.29 16:08:13] [0006m.05s.666ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2022.04.29 16:08:13] [0006m.05s.666ms] [5] iCDB ENetGen Wrapper: FREE
+[2022.04.29 16:08:13] [0006m.05s.666ms] [0] iCDB Server PI: Plugins closed
+[2022.04.29 16:08:13] [0006m.05s.666ms] [0] iCDB Server PI: Unloading database
+[2022.04.29 16:08:13] [0006m.05s.666ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2022.04.29 16:08:13] [0006m.05s.666ms] [6] iCDB Storage Server: Saving all modified files
+[2022.04.29 16:08:13] [0006m.05s.666ms] [7] SingleFile: [5632-05ab-f4af-0cdb] RTS: switched to: [1]
+[2022.04.29 16:08:13] [0006m.05s.666ms] [0] iCDB Server PI: Saving storage
+[2022.04.29 16:08:13] [0006m.05s.666ms] [6] iCDB Storage Server: Saving all modified files
+[2022.04.29 16:08:13] [0006m.05s.666ms] [7] SingleFile: [5632-05ab-f4af-0cdb] RTS: switched to: [1]
+[2022.04.29 16:08:13] [0006m.05s.666ms] [0] iCDB Server PI: Closing database
+[2022.04.29 16:08:13] [0006m.05s.666ms] [7] Holes::writing holes [2] prev [0] from [269292] 
+[2022.04.29 16:08:13] [0006m.05s.666ms] [7] Holes::write <35948,36075>
+[2022.04.29 16:08:13] [0006m.05s.667ms] [7] Holes::write <42668,43115>
+[2022.04.29 16:08:13] [0006m.05s.667ms] [7] Holes have been successfully saved 2 CRC [3749913782]
+[2022.04.29 16:08:13] [0006m.05s.667ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[96%]
+[2022.04.29 16:08:13] [0006m.05s.667ms] [1] iCDB Server PI: Stats: Database file size [269312 (263.0 kB)]
+[2022.04.29 16:08:13] [0006m.05s.667ms] [7] Holes::writing holes [2] prev [2] from [269308] 
+[2022.04.29 16:08:13] [0006m.05s.667ms] [7] Holes::write <35948,36075>
+[2022.04.29 16:08:13] [0006m.05s.668ms] [7] Holes::write <42668,43115>
+[2022.04.29 16:08:13] [0006m.05s.668ms] [7] Holes have been successfully saved 2 CRC [3749913782]
+[2022.04.29 16:08:13] [0006m.05s.668ms] [4] iCDB SnapshotMap: No Snapshot removed: map is empty
+[2022.04.29 16:08:13] [0006m.05s.668ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2022.04.29 16:08:13] [0006m.05s.668ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2022.04.29 16:08:13] [0006m.05s.669ms] [3] iCDB Storage Server: FREE
+[2022.04.29 16:08:13] [0006m.05s.669ms] [3] iCDB Storage Server Save Thread: FREE
+[2022.04.29 16:08:13] [0006m.05s.669ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.669ms] [2] iCDB Storage Server Save Thread: STOP
+[2022.04.29 16:08:13] [0006m.05s.669ms] [3] iCDB Storage Server Backup Thread: FREE
+[2022.04.29 16:08:13] [0006m.05s.669ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.669ms] [2] iCDB Storage Server Backup Thread: STOP
+[2022.04.29 16:08:13] [0006m.05s.670ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\icdb.dat]
+[2022.04.29 16:08:13] [0006m.05s.670ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\icdb.dat] restrained
+[2022.04.29 16:08:13] [0006m.05s.670ms] [0] iCDB Server PI: Database closed
+[2022.04.29 16:08:13] [0006m.05s.670ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [37273] ticks
+[2022.04.29 16:08:13] [0006m.05s.671ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3727] microseconds
+[2022.04.29 16:08:13] [0006m.05s.671ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5]
+[2022.04.29 16:08:13] [0006m.05s.671ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1341] commands per second
+[2022.04.29 16:08:13] [0006m.05s.671ms] [1] iCDB Server PI: Stats: Mem[35106816]
+[2022.04.29 16:08:13] [0006m.05s.671ms] [1] iCDB Server PI: Stats: MemPeak[44556288]
+[2022.04.29 16:08:13] [0006m.05s.672ms] [0] Single file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\icdb.dat] closed with size [269312 (263.0 kB)]
+[2022.04.29 16:08:13] [0006m.05s.736ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2022.04.29 16:08:13] [0006m.05s.736ms] [3] DRT[1]: FREE
+[2022.04.29 16:08:13] [0006m.05s.736ms] [4] DRT[1]: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.752ms] [2] DRT[1]: STOP
+[2022.04.29 16:08:13] [0006m.05s.754ms] [3] DST[1]: FREE
+[2022.04.29 16:08:13] [0006m.05s.754ms] [4] DST[1]: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.754ms] [2] DST[1]: EXIT graceful
+[2022.04.29 16:08:13] [0006m.05s.754ms] [2] DST[1]: STOP
+[2022.04.29 16:08:13] [0006m.05s.755ms] [3] SD[1]: FREE
+[2022.04.29 16:08:13] [0006m.05s.755ms] [1] SD[1]: WARNING: Session is still active while destroying
+[2022.04.29 16:08:13] [0006m.05s.755ms] [7] SD[1]: Sending logout notify: SvrNotifyLogout @ Version[VX.2.10.0] # Id[413]
+[2022.04.29 16:08:13] [0006m.05s.755ms] [2] SD[1]: Disconnecting from peer
+[2022.04.29 16:08:13] [0006m.05s.755ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin\..\lib\ENetGen70.dll]
+[2022.04.29 16:08:13] [0006m.05s.757ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin\..\lib\PIM.dll]
+[2022.04.29 16:08:13] [0006m.05s.761ms] [3] ST: FREE
+[2022.04.29 16:08:13] [0006m.05s.761ms] [4] ST: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.761ms] [2] ST: STOP
+[2022.04.29 16:08:13] [0006m.05s.762ms] [3] MET: FREE
+[2022.04.29 16:08:13] [0006m.05s.762ms] [4] MET: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.762ms] [2] MET: STOP
+[2022.04.29 16:08:13] [0006m.05s.762ms] [3] MCE: FREE
+[2022.04.29 16:08:13] [0006m.05s.762ms] [3] ELMT: FREE
+[2022.04.29 16:08:13] [0006m.05s.762ms] [4] ELMT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.762ms] [2] ELMT: STOP
+[2022.04.29 16:08:13] [0006m.05s.762ms] [3] EventLogDataFile: EventLog data file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\cdbsvr\events\events.dat] closed
+[2022.04.29 16:08:13] [0006m.05s.763ms] [3] EventLogIndexFile: EventLog index file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\cdbsvr\events\events.idx] closed
+[2022.04.29 16:08:13] [0006m.05s.763ms] [4] ELMT: FINISHED
+[2022.04.29 16:08:13] [0006m.05s.763ms] [3] AT: FREE
+[2022.04.29 16:08:13] [0006m.05s.763ms] [4] AT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.843ms] [2] AT: Removing server address file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\cdbsvr\sAddress.adr]
+[2022.04.29 16:08:13] [0006m.05s.843ms] [0] AT: ERROR: Could not remove server address file [C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database\cdbsvr\sAddress.adr]
+[2022.04.29 16:08:13] [0006m.05s.843ms] [2] AT: STOP
+[2022.04.29 16:08:13] [0006m.05s.844ms] [3] BT: FREE
+[2022.04.29 16:08:13] [0006m.05s.844ms] [4] BT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.903ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[ce56-d4cd-5b66-43df-0444-c626-444c-6260-8e49-4e9f-e8c5-4540] Command number[5544]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[eec2-751f-9e64-7a84-8e8b-b62e-e8bb-6260-1638-2b6c-a565-a470] Address[Host[LAPTOP-DHJ5LKCP] Port[10001]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\Users\josme\OneDrive\Escritorio\Diseño Mecatrónico\Pads Kéros Control\database] ReadOnly[FALSE] Server GUID[ce56-d4cd-5b66-43df-0444-c626-444c-6260-8e49-4e9f-e8c5-4540]] # Status [Shutdown]
+[2022.04.29 16:08:13] [0006m.05s.903ms] [2] BT: STOP
+[2022.04.29 16:08:13] [0006m.05s.904ms] [3] MWT: FREE
+[2022.04.29 16:08:13] [0006m.05s.904ms] [0] MWT: Destroy the shutdown block reason.
+[2022.04.29 16:08:13] [0006m.05s.904ms] [4] MWT: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.907ms] [0] MWT: STOP
+[2022.04.29 16:08:13] [0006m.05s.908ms] [0] S: STOP
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] S: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] S: FREE: Server implementation
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] CLSVRM: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SDSM: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SDL: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SCL: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [6] SSM: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SMCL: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SS: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SM: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [3] SingleMessageSender: Send thread: FREE
+[2022.04.29 16:08:13] [0006m.05s.908ms] [4] SingleMessageSender: Send thread: Waiting for finish
+[2022.04.29 16:08:13] [0006m.05s.908ms] [2] SingleMessageSender: Send thread: STOP
+[2022.04.29 16:08:13] [0006m.05s.909ms] [4] SingleMessageSender: Send thread: FINISHED
+[2022.04.29 16:08:13] [0006m.05s.909ms] [3] SCQ: FREE
+[2022.04.29 16:08:13] [0006m.05s.909ms] [3] MCQ: FREE
